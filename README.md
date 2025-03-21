@@ -1,4 +1,4 @@
-# SOC-Automation-Lab
+# SOC-Automation-Lab Project
 Welcome to the SOC Automation Project.
 
 The goal here is to start fully integrated SOAR solution incorporating Wazuh & TheHive for case management. 
